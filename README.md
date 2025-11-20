@@ -1,5 +1,5 @@
 
-### 📌 README.md **
+### 📌 README
 
 # ❤️ Heart Disease Prediction using Machine Learning
 
